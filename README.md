@@ -18,8 +18,6 @@ To install the application, perform the following steps:
 ## Usage
 
 Execute the application with the following command:
-
-```bash
 node index.js
 
 ## Walkthrough Video
