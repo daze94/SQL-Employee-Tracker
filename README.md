@@ -25,6 +25,7 @@ node index.js
 ## Walkthrough Video
 For a detailed walkthrough of the application's functionality, refer to this video.
 
+https://youtu.be/AKssbzm4iws
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
